@@ -1,7 +1,9 @@
 # coffee_shop
 
 Live Demo: https://dejabrew-crud.000webhostapp.com/
-
+<br />
+Made with: PHP | MySQL | Bootstrap | JavaScript | HTML & CSS
+<br />
 ![image](https://user-images.githubusercontent.com/81238151/219267696-5c41830b-90e4-4650-8d59-532e5b972cfb.png)
 You can use create an account or use this log in:
 username: michaeljordan@gmail.com
